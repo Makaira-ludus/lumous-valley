@@ -2,7 +2,7 @@
 
 **Lumous Valley** is an immersive RPG where you control a Viking who casts powerful spells using the ancient **Elder Furtharc** runes. Embark on an epic journey of survival, exploration, and powerful transformations, all while grappling with the ancient forces of magic, clans, and your own destiny.
 
-### ⚡ Core Concept
+## ⚡ Core Concept
 
 > **Master the runes. Shape your fate.**
 
@@ -48,7 +48,7 @@ Specialize in unique trades like blacksmithing, potion-making, or archery. Your 
 
 Every choice in *Lumous Valley* shapes your journey. Will you focus on magic, brute strength, or diplomacy? Will you remain loyal to your clan, or betray them for power? The world is rich with possibilities, and every decision will leave a lasting impact on your story.
 
-> _Will you be a hero to your clan—or a traitor to your kind?_
+> *Will you be a hero to your clan—or a traitor to your kind?*
 
 ## The World
 
@@ -86,7 +86,7 @@ The ultimate goal of *Lumous Valley* is to ascend to new heights of power, explo
 - **Clan Dominance**: Unify the clans under your banner and rule as a supreme leader.
 - **The Final Trial**: Face off against a final, world-threatening enemy that only a fully evolved Viking can defeat.
 
-> _Will you rise to become a legend—or be forgotten in the darkness?_
+> *Will you rise to become a legend—or be forgotten in the darkness?*
 
 ## Elder Furtharc System
 
@@ -107,11 +107,13 @@ Master the runes and forge your destiny.
 
 ## 🚧 Status
 
-> **Early Concept / Prototype Phase**  
-The foundations of this game are being laid. Currently focused on creating basic movement, rune casting, and clan interactions.
+> **Early Concept / Prototype Phase**
+The foundations of this game are being laid.
+Currently focused on creating basic movement, rune casting, and clan interactions.
 
 ## Get Involved
 
-Interested in shaping the future of *Lumous Valley*? Drop us a line, join our community, or contribute to the project!
+Interested in shaping the future of *Lumous Valley*?
+Join our community, or contribute to the project!
 
-> _Master the runes. Shape your fate._
+> *Master the runes. Shape your fate.*
